@@ -66,10 +66,15 @@ td {
   user-select: none;
 }
 
-button:hover {
-  background: #fff;
+button#check:hover {
+  background: #7C7C8A;
   color: #191622;
-  transition: 0.2s;
+  transition: 500ms;
+}
+button#delete:hover {
+  background: #7C7C8A;
+  color: #191622;
+  transition: 500ms;
 }
 
 #controlButtons {
@@ -159,6 +164,107 @@ p#key-o:hover {
   transition: 0.2s;
 }
 p#key-p:hover {
+  background: #fff;
+  color: #191622;
+  transition: 0.2s;
+}
+
+p#key-a:hover {
+  background: #fff;
+  color: #191622;
+  transition: 0.2s;
+}
+
+p#key-s:hover {
+  background: #fff;
+  color: #191622;
+  transition: 0.2s;
+}
+
+p#key-d:hover {
+  background: #fff;
+  color: #191622;
+  transition: 0.2s;
+}
+
+p#key-f:hover {
+  background: #fff;
+  color: #191622;
+  transition: 0.2s;
+}
+p#key-g:hover {
+  background: #fff;
+  color: #191622;
+  transition: 0.2s;
+}
+
+p#key-h:hover {
+  background: #fff;
+  color: #191622;
+  transition: 0.2s;
+}
+
+p#key-j:hover {
+  background: #fff;
+  color: #191622;
+  transition: 0.2s;
+}
+
+p#key-k:hover {
+  background: #fff;
+  color: #191622;
+  transition: 0.2s;
+}
+
+p#key-l:hover {
+  background: #fff;
+  color: #191622;
+  transition: 0.2s;
+}
+
+p#key-ç:hover {
+  background: #fff;
+  color: #191622;
+  transition: 0.2s;
+}
+
+p#key-z:hover {
+  background: #fff;
+  color: #191622;
+  transition: 0.2s;
+}
+
+p#key-x:hover {
+  background: #fff;
+  color: #191622;
+  transition: 0.2s;
+}
+
+p#key-c:hover {
+  background: #fff;
+  color: #191622;
+  transition: 0.2s;
+}
+
+p#key-v:hover {
+  background: #fff;
+  color: #191622;
+  transition: 0.2s;
+}
+
+p#key-b:hover {
+  background: #fff;
+  color: #191622;
+  transition: 0.2s;
+}
+
+p#key-n:hover {
+  background: #fff;
+  color: #191622;
+  transition: 0.2s;
+}
+
+p#key-m:hover {
   background: #fff;
   color: #191622;
   transition: 0.2s;
